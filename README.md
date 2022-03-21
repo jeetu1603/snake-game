@@ -1,2 +1,2 @@
 # snake-game
-snake game using pygame
+![sample](sample.png)
